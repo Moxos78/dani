@@ -413,6 +413,21 @@ var datos = [
         "code": "ATP",
         "dato": "Querido Padre",
         "Nombre": "Armando Tapia Pimentel"
+    },
+    {
+        "code": "GGLO",
+        "dato": "Estimados",
+        "Nombre": "Guzmán Gonzales y Lucía Ortega"
+    },
+    {
+        "code": "LFWMF",
+        "dato": "Estimados",
+        "Nombre": "Luis Fernando Wayar y Maira Flores"
+    },
+    {
+        "code": "GS",
+        "dato": "Estimados",
+        "Nombre": "Gonzalo y Sra."
     }
 ];
 
