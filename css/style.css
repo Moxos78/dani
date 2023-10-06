@@ -8386,17 +8386,17 @@ body {
       -ms-transform: translateX(0);
       -o-transform: translateX(0);
       transform: translateX(0);
-      width: 270px;
+      width: 350px;
       background: #fff;
       z-index: 999;
       position: fixed; }
     body.offcanvas #colorlib-main, body.offcanvas .colorlib-nav-toggle {
       top: 0;
-      -moz-transform: translateX(220px);
-      -webkit-transform: translateX(220px);
-      -ms-transform: translateX(220px);
-      -o-transform: translateX(220px);
-      transform: translateX(220px); }
+      -moz-transform: translateX(300px);
+      -webkit-transform: translateX(300px);
+      -ms-transform: translateX(300px);
+      -o-transform: translateX(300px);
+      transform: translateX(300px); }
 
 a {
   -webkit-transition: .3s all ease;
