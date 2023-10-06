@@ -335,9 +335,9 @@ var datos = [
         "Nombre": "Noemi Ortega y Acompañante"
     },
     {
-        "code": "LSCMEÜ",
+        "code": "LSCMEU",
         "dato": "Estimados",
-        "Nombre": "Luis Sanchez Cari y Marcela EgÜez"
+        "Nombre": "Luis Sanchez Cari y Marcela Egüez"
     },
     {
         "code": "WOAS",
@@ -382,7 +382,7 @@ var datos = [
     {
         "code": "METD",
         "dato": "Estimados",
-        "Nombre": "Marcelo EgÜez y Teresa Dávila"
+        "Nombre": "Marcelo Egüez y Teresa Dávila"
     },
     {
         "code": "MMS",
