@@ -277,7 +277,7 @@ var datos = [
     {
         "code": "FMMC",
         "dato": "Estimados",
-        "Nombre": "Freddy Meneses y Mayda Condori"
+        "Nombre": "Fredy Meneces y Mayda Condori"
     },
     {
         "code": "ERMNC",
