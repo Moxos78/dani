@@ -428,6 +428,26 @@ var datos = [
         "code": "GS",
         "dato": "Estimados",
         "Nombre": "Gonzalo y Sra."
+    },
+    {
+        "code": "CM",
+        "dato": "Estimado",
+        "Nombre": "Cliver Miranda"
+    },
+    {
+        "code": "AM",
+        "dato": "Estimado",
+        "Nombre": "Alex Martinez"
+    },
+    {
+        "code": "MC",
+        "dato": "Estimada",
+        "Nombre": "Mayra Villca"
+    },
+    {
+        "code": "MACDRS",
+        "dato": "Estimados",
+        "Nombre": "Miguel Angel Chincheros y Daniela Ramirez Silguera"
     }
 ];
 
